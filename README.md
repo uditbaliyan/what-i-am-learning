@@ -1,19 +1,52 @@
 # what-i-am-learning CURRENTLY NOVEMBER 2024
 FORMAT : [TOPIC] [PLAYLIST/RESOURCES] [sTARTING_DATE] [TARGETED_COMPLETATION_DATE] [COMPLETATION_DATE] 
 
-- **[Getting started]** [6 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Python Object Oriented Programming (OPP)]** [6 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Lists]** [52 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Strings]** [44 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Conditional Statements]** [25 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[For & While loops]** [56 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Dictionaries]** [15 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Return]** [16 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Modulo]** [17 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Number Shapes]** [8 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Tuple]** [1 video] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Error Handling]** [4 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Command Line]** [4 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
+| **Topic** | **Videos** | **Starting Date** | **Targeted Completion Date** | **Completion Date** |
+|-----------|------------|-------------------|------------------------------|---------------------|
+| **Getting Started** | 6 | 10-11-24 | 12-11-24 | TBD |
+| **Python Object Oriented Programming (OOP)** | 6 | 12-11-24 | 14-11-24 | TBD |
+| **Lists** | 52 | 14-11-24 | 21-11-24 | TBD |
+| **Strings** | 44 | 15-11-24 | 19-11-24 | TBD |
+| **Conditional Statements** | 25 | 17-11-24 | 20-11-24 | TBD |
+| **For & While loops** | 56 | 18-11-24 | 25-11-24 | TBD |
+| **Dictionaries** | 15 | 20-11-24 | 22-11-24 | TBD |
+| **Return** | 16 | 22-11-24 | 24-11-24 | TBD |
+| **Modulo** | 17 | 24-11-24 | 26-11-24 | TBD |
+| **Number Shapes** | 8 | 26-11-24 | 27-11-24 | TBD |
+| **Tuple** | 1 | 27-11-24 | 28-11-24 | TBD |
+| **Error Handling** | 4 | 28-11-24 | 29-11-24 | TBD |
+| **Command Line** | 4 | 29-11-24 | 30-11-24 | TBD |
+
+
+------------------------------------DECEMBER---------------------------------------------------------
+
+| **Topic** | **Videos** | **Starting Date** | **Targeted Completion Date** | **Completion Date** |
+|-----------|------------|-------------------|------------------------------|---------------------|
+| **Asyncio Module** | 3 | 01-12-24 | 02-12-24 | TBD |
+| **Double Underscore Methods** | 3 | 02-12-24 | 03-12-24 | TBD |
+| **Decorators** | 1 | 03-12-24 | 03-12-24 | TBD |
+| **Datetime Module** | 5 | 04-12-24 | 05-12-24 | TBD |
+| **Operator Module** | 10 | 05-12-24 | 07-12-24 | TBD |
+| **Fnmatch Module** | 3 | 08-12-24 | 09-12-24 | TBD |
+| **Pickle Module** | 4 | 09-12-24 | 10-12-24 | TBD |
+| **File Object** | 7 | 10-12-24 | 12-12-24 | TBD |
+| **String Module** | 5 | 13-12-24 | 14-12-24 | TBD |
+| **Math with Python** | 32 | 15-12-24 | 22-12-24 | TBD |
+| **Python Tricks and Rules** | 46 | 23-12-24 | 29-12-24 | TBD |
+
+
+----------------------------------JAN------------------------------------------------------
+
+
+| **Python Built-in Functions** | 93 | 30-12-24 | 14-01-25 | TBD |
+| **Keyword Arguments** | 37 | 15-01-25 | 20-01-25 | TBD |
+
+
+
+---------------------------------FEB------------------------------
+
+
+
 
 ### Core Libraries and Tools:
 - **[Pandas Library]** [56 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
@@ -42,20 +75,6 @@ FORMAT : [TOPIC] [PLAYLIST/RESOURCES] [sTARTING_DATE] [TARGETED_COMPLETATION_DAT
 - **[Stock Data]** [22 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
 - **[pandas_datareader]** [4 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
 
-### Advanced Python Concepts & Tools:
-- **[Asyncio Module]** [3 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Double Underscore Methods]** [3 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Decorators]** [1 video] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Datetime Module]** [5 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Operator Module]** [10 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Fnmatch Module]** [3 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Pickle Module]** [4 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[File Object]** [7 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[String Module]** [5 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Math with Python]** [32 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Python Tricks and Rules]** [46 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Python Built-in Functions]** [93 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
-- **[Keyword Arguments]** [37 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
 
 ### Application and Project-Based Learning:
 - **[Live Streams]** [10 videos] [Starting Date: TBD] [Targeted Completion Date: TBD] [Completion Date: TBD]
